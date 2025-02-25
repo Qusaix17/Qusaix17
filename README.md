@@ -16,7 +16,7 @@ I aim to bridge the gap between data and decision-making, leveraging my analytic
 <h2>📂 Projects</h2>
 Here are some of my projects:
 
-🧮 Python Calculator (Tkinter) – Repository Link <br>
+🧮 [Python Calculator](https://github.com/Qusaix17/Simple-Calculator-python-code.git) (Tkinter) <br>
 📜 Changelog App (Python + Tkinter) – Repository Link <br>
 🏥 Hospital ER Visits Analysis (SQL, Python, Power BI) – Repository Link <br>
 📊 E-commerce Power BI Dashboard – Repository Link <br>
