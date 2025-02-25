@@ -26,5 +26,6 @@ Here are some of my projects:
 Outside of data, I have a strong background in weightlifting and biomechanics. I love experimenting with unconventional workout techniques to optimize performance!
 
 📬 Connect with Me<br>
+
 📧 Email: iamqusai76@gmail.com<br>
-🔗 LinkedIn: www.linkedin.com/in/qusai-alkinani-627227316
+🔗 LinkedIn: www.linkedin.com/in/qusaix17
