@@ -1,4 +1,4 @@
-<h1>Qusaix17 | Data Enthusiast & Physiotherapist 🚀</h1><br>
+<h1>Qusai K. | Data Enthusiast & Physiotherapist 🚀</h1><br>
 👋 Hi, I'm Qusai, a physiotherapist who discovered a passion for data analysis. My journey began while working on my graduation project, where I collected and cleaned data from 50+ individuals to answer complex questions. The ability to extract real insights from messy data made me feel like a superhero, motivating me to dive deeper into the world of data!
 
 <h2>💡 Technical Skills:</h2><br>
