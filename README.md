@@ -16,7 +16,7 @@ Here are some of my projects:
 🧮 [Python Calculator](https://github.com/Qusaix17/Simple-Calculator-python-code.git) (Tkinter) <br>
 📜 Changelog App (Python + Tkinter) – *Working on uploading it* <br>
 🏥 [Hospital ER Visits Analysis](https://github.com/Qusaix17/ER-hospital-visits-analysis) (Excel, SQL, Python, Power BI)  <br>
-📊 [E-commerce Sales,Warehouse,Return Analysis] – (https://github.com/Qusaix17/Ecommerce-sales-analysis-sql-powerbi) <br>
+📊 [E-commerce Sales,Warehouse,Return Analysis](https://github.com/Qusaix17/Ecommerce-sales-analysis-sql-powerbi) <br>
 <h4>✨ Proud Moment: My hospital project was my first real-world project where I applied SQL, Python, Excel, and Power BI together!</h4>
 
 <h2>🏋️‍♂️ Personal Interests</h2><br>
